@@ -1,0 +1,19 @@
+{ 
+  "name": "Kodi Source",
+  "identifier": "com.24mu13.altkodi",
+  "sourceURL": "https://24mu13.github.io/altkodi/apps.json",
+  "apps": [
+    {
+      "bundleIdentifier": "org.xbmc.kodi-ios",
+      "developerName": "Kodi Team",
+      "downloadURL": "https://1.uploadlinks.com/file/uploadlinks/org.xbmc.kodi-ios_21.2_iphoneos-arm64.ipa",
+      "iconURL": "https://raw.githubusercontent.com/Randomblock1/randomsource/master/assets/kodi.jpg",
+      "localizedDescription": "Kodi® media center is an award-winning free and open source cross-platform software media player.",
+      "name": "Kodi",
+      "size": 158585568,
+      "subtitle": "The ultimate entertainment center",
+      "tintColor": "12B2E7",
+      "version": "21.2",
+    }
+  ]
+}
