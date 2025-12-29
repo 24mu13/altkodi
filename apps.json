@@ -6,28 +6,25 @@
     {
       "bundleIdentifier": "org.xbmc.kodi-ios",
       "developerName": "Kodi Team",
-      "downloadURL": "https://1.uploadlinks.com/file/uploadlinks/org.xbmc.kodi-ios_21.2_iphoneos-arm64.ipa",
       "iconURL": "https://raw.githubusercontent.com/Randomblock1/randomsource/master/assets/kodi.jpg",
       "localizedDescription": "Kodi® media center is an award-winning free and open source cross-platform software media player.",
       "name": "Kodi",
-      "size": 158585568,
       "subtitle": "The ultimate entertainment center",
       "tintColor": "12B2E7",
-      "version": "21.2",
-      "versionDate": "2025-01-19T12:00:00-06:00"
-    },
-    {
-      "bundleIdentifier": "org.xbmc.kodi-ios",
-      "developerName": "Kodi Team",
-      "downloadURL": "https://1.uploadlinks.com/file/uploadlinks/org.xbmc.kodi-ios_21.3_iphoneos-arm64.ipa",
-      "iconURL": "https://raw.githubusercontent.com/Randomblock1/randomsource/master/assets/kodi.jpg",
-      "localizedDescription": "Kodi® media center is an award-winning free and open source cross-platform software media player.",
-      "name": "Kodi",
-      "size": 224495293,
-      "subtitle": "The ultimate entertainment center",
-      "tintColor": "12B2E7",
-      "version": "21.3",
-      "versionDate": "2025-12-29T12:00:00-06:00"
+      "versions": [
+        {
+          "version": "21.2",
+          "versionDate": "2025-01-19T12:00:00-06:00",
+          "downloadURL": "https://1.uploadlinks.com/file/uploadlinks/org.xbmc.kodi-ios_21.2_iphoneos-arm64.ipa",
+          "size": 158585568
+        },
+        {
+          "version": "21.3",
+          "versionDate": "2025-12-29T12:00:00-06:00",
+          "downloadURL": "https://1.uploadlinks.com/file/uploadlinks/org.xbmc.kodi-ios_21.3_iphoneos-arm64.ipa",
+          "size": 224495293
+        }
+      ]
     }
   ]
 }
