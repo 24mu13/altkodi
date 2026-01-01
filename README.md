@@ -12,11 +12,6 @@ It is a simple and easy way to get Kodi on your iOS device without the need for 
    `https://24mu13.github.io/altkodi/apps.json`
 3. Search for **Kodi** in the store and install it.
 
-**Note**: using **SideStore** is not yet working automatically because of https://github.com/SideStore/SideStore/issues/227, but you could work around as follows:
-- Download the IPA file manually and remove both .o files in the path `Payload/Kodi.app/Frameworks/lib/python3.11/config-3.11-darwin/`
-- Copy the tweaked file to the device
-- Install it using SideStore → My Apps → +
-
 ### SideStore
 
 If you are going to use **SideStore**, you need to install the app as described [here](https://docs.sidestore.io/docs/installation/prerequisites).
@@ -25,6 +20,11 @@ In short, as per today (January 2026):
 - Install [LocalDevVPN](https://apps.apple.com/us/app/localdevvpn/id6755608044) on device and connect the VPN
 - Install [iloader](https://github.com/nab138/iloader) on computer
 - Connect device to computer via USB and run `iloader` to install SideStore
+
+🐞 **Note**: using **SideStore** is not yet working automatically because of https://github.com/SideStore/SideStore/issues/227, but you could work around as follows:
+- Download the IPA file manually and remove both .o files in the path `Payload/Kodi.app/Frameworks/lib/python3.11/config-3.11-darwin/`
+- Copy the tweaked file to the device
+- Install it using SideStore → My Apps → +
 
 ## Other manual installation methods
 
