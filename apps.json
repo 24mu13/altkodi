@@ -13,16 +13,18 @@
       "tintColor": "12B2E7",
       "versions": [
         {
-          "version": "21.2",
-          "date": "2025-01-19T12:00:00-06:00",
-          "downloadURL": "https://1.uploadlinks.com/file/uploadlinks/org.xbmc.kodi-ios_21.2_iphoneos-arm64.ipa",
-          "size": 158585568
-        },
-        {
           "version": "21.3",
           "date": "2025-12-29T12:00:00-06:00",
           "downloadURL": "https://1.uploadlinks.com/file/uploadlinks/org.xbmc.kodi-ios_21.3_iphoneos-arm64.ipa",
+          "localizedDescription": "Kodi 21.3",
           "size": 224495293
+        },
+        {
+          "version": "21.2",
+          "date": "2025-01-19T12:00:00-06:00",
+          "downloadURL": "https://1.uploadlinks.com/file/uploadlinks/org.xbmc.kodi-ios_21.2_iphoneos-arm64.ipa",
+          "localizedDescription": "Kodi 21.2",
+          "size": 158585568
         }
       ]
     }
